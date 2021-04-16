@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/stalk-market/static/css/main.6dea0f05.chunk.css",
+    "main.js": "/stalk-market/static/js/main.9f401c6b.chunk.js",
+    "main.js.map": "/stalk-market/static/js/main.9f401c6b.chunk.js.map",
+    "runtime-main.js": "/stalk-market/static/js/runtime-main.9eed983d.js",
+    "runtime-main.js.map": "/stalk-market/static/js/runtime-main.9eed983d.js.map",
+    "static/js/2.1209c0a6.chunk.js": "/stalk-market/static/js/2.1209c0a6.chunk.js",
+    "static/js/2.1209c0a6.chunk.js.map": "/stalk-market/static/js/2.1209c0a6.chunk.js.map",
+    "index.html": "/stalk-market/index.html",
+    "static/css/main.6dea0f05.chunk.css.map": "/stalk-market/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.1209c0a6.chunk.js.LICENSE.txt": "/stalk-market/static/js/2.1209c0a6.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9eed983d.js",
+    "static/js/2.1209c0a6.chunk.js",
+    "static/css/main.6dea0f05.chunk.css",
+    "static/js/main.9f401c6b.chunk.js"
+  ]
+}

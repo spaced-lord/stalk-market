@@ -1,0 +1,2 @@
+(this["webpackJsonpstalk-market"]=this["webpackJsonpstalk-market"]||[]).push([[0],{4:function(t,e,n){"use strict";n.r(e);var s=n(0),a=n.n(s),r=n(2),c=n.n(r),o=(n(9),n(3));c.a.render(Object(o.jsx)(a.a.StrictMode,{}),document.getElementById("root"))},9:function(t,e,n){}},[[4,1,2]]]);
+//# sourceMappingURL=main.9f401c6b.chunk.js.map
