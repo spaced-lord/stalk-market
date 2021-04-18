@@ -2,8 +2,8 @@ import React from 'react-dom';
 
 const instaFeed = () => {
     return (
-        <div className="text-red">
-           <p>hello.
+        <div className="">
+           <p className="text-center">hello.
            </p>
         </div>
     )
