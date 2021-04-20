@@ -29791,6 +29791,8 @@ video {
   --tw-backdrop-sepia: sepia(100%);
 }
 
+@import url('https://fonts.googleapis.com/css2?family=Orelega+One&display=swap');
+
 @media (min-width: 640px) {
   .sm\:container {
     width: 100%;
